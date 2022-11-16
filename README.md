@@ -6,5 +6,6 @@
 2. For top player, click on the 'blue' colour to win.
 
 ## SCREENSHOTS
-![mode_game_ss](https://raw.githubusercontent.com/pranaysj/TAP-TAP/main/Screenshort/mode_game_ss.png)
 ![start_game_ss](https://raw.githubusercontent.com/pranaysj/TAP-TAP/main/Screenshort/start_game_ss.png)
+![mode_game_ss](https://raw.githubusercontent.com/pranaysj/TAP-TAP/main/Screenshort/mode_game_ss.png)
+![play_game_ss](https://raw.githubusercontent.com/pranaysj/TAP-TAP/main/Screenshort/play_game_ss.png)
