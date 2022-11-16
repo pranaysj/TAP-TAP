@@ -7,3 +7,4 @@
 
 ## SCREENSHOTS
 ![mode_game_ss](https://raw.githubusercontent.com/pranaysj/TAP-TAP/main/Screenshort/mode_game_ss.png)
+![start_game_ss](https://raw.githubusercontent.com/pranaysj/TAP-TAP/main/Screenshort/start_game_ss.png)
